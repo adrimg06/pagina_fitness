@@ -62,7 +62,7 @@ document.getElementById("btnSenior").addEventListener("click", function () {
 });
 
 document.getElementById("btnPro").addEventListener("click", function () {
-  window.location.href = "pro.html";
+  window.location.href = "Pro.html";
 });
 
 // Botones de rutinas de mujer
